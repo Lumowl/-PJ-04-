@@ -1,0 +1,28 @@
+{
+    "rf": {
+        "regressor__n_estimators": 800,
+        "regressor__min_samples_split": 6,
+        "regressor__min_samples_leaf": 3,
+        "regressor__max_features": 0.3,
+        "regressor__max_depth": 30
+    },
+    "xgb": {
+        "regressor__tree_method": "hist",
+        "regressor__subsample": 0.8,
+        "regressor__reg_lambda": 4,
+        "regressor__reg_alpha": 0.3,
+        "regressor__n_estimators": 800,
+        "regressor__min_child_weight": 15,
+        "regressor__max_depth": 10,
+        "regressor__learning_rate": 0.03,
+        "regressor__colsample_bytree": 0.7
+    },
+    "cb": {
+        "regressor__random_strength": 0.01,
+        "regressor__n_estimators": 1300,
+        "regressor__max_depth": 10,
+        "regressor__learning_rate": 0.1,
+        "regressor__l2_leaf_reg": 8,
+        "regressor__bagging_temperature": 0.5
+    }
+}

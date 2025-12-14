@@ -1,0 +1,11 @@
+{
+    "regressor__tree_method": "hist",
+    "regressor__subsample": 0.8,
+    "regressor__reg_lambda": 4,
+    "regressor__reg_alpha": 0.3,
+    "regressor__n_estimators": 800,
+    "regressor__min_child_weight": 15,
+    "regressor__max_depth": 10,
+    "regressor__learning_rate": 0.03,
+    "regressor__colsample_bytree": 0.7
+}

@@ -1,0 +1,7 @@
+{
+    "regressor__n_estimators": 800,
+    "regressor__min_samples_split": 6,
+    "regressor__min_samples_leaf": 3,
+    "regressor__max_features": 0.3,
+    "regressor__max_depth": 30
+}
