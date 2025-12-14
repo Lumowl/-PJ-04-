@@ -49,18 +49,26 @@ https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view
 
 ## Структура проекта
 
-'''
+
 housing_price_service/
 ├─ Dockerfile
+
 ├─ requirements.txt
+
 ├─ README.md
+
 ├─ src/
+
 │ ├─ app.py
+
 │ ├─ predictor.py
+
 │ ├─ preprocessing.py
+
 ├─ models/
+
 │ └─ housing_model.pkl
-'''
+
 
 ---
 
