@@ -93,6 +93,7 @@ http://localhost:8000/docs
 ```bash
 docker build -t housing-price-service .
 docker run -p 8000:8000 housing-price-service
+```
 
 После этого сервис доступен по адресу - http://localhost:8000/docs
 
