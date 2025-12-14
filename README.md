@@ -70,7 +70,6 @@ housing_price_service/
 
     └── 🏠 housing_model.pkl
 
-
 ---
 
 ## 🌐 Реализация сервиса
