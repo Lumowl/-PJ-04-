@@ -54,11 +54,11 @@ housing_price_service/
 ├─ requirements.txt
 ├─ README.md
 ├─ src/
-│  ├─ app.py
-│  ├─ predictor.py
-│  ├─ preprocessing.py
+│ ├─ app.py
+│ ├─ predictor.py
+│ ├─ preprocessing.py
 ├─ models/
-│  └─ housing_model.pkl
+│ └─ housing_model.pkl
 
 ---
 
